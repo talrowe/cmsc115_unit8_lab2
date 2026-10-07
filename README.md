@@ -9,16 +9,17 @@ https://github.com/talrowe/cmsc115_unit8_lab2
 ## Iteration 1
 
 What the AI code does:
--
+- The method returns the first value in the array.
 
 Tests passed/failed:
--
+- `testSingleValue` passed.
+- `testBasicArray`, `testNegativeNumbers`, and `testEmptyArray` failed.
 
 What surprised you:
-- AI has been extremly helpful with coding. 
+- The vague AI prompt produced code that was valid Java but did not match the intended behavior. It also failed on an empty array because it tried to access index 0.
 
 Commit message:
--
+- Iteration 1: AI-generated implementation
 
 ---
 
