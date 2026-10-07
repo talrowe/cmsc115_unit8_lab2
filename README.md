@@ -26,16 +26,16 @@ Commit message:
 ## Iteration 2
 
 What changed:
--
+- The method was changed to search through the array and return the largest integer.
 
 What improved:
--
+- `testBasicArray`, `testNegativeNumbers`, and `testSingleValue` now pass.
 
 What still failed and why:
--
+- `testEmptyArray` still failed because the method tries to access `values[0]`, which does not exist when the array is empty.
 
 Commit message:
--
+- Iteration 2: largest value implementation
 
 ---
 
