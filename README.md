@@ -1,10 +1,10 @@
 # Reflection – AI Number Program Lab
 
 ##  Student Name:
-(Enter your name here)
+Thomas Rowe
 
 ##  GitHub Repository Link:
-(Insert your repository URL here)
+https://github.com/talrowe/cmsc115_unit8_lab2
 
 ## Iteration 1
 
@@ -15,7 +15,7 @@ Tests passed/failed:
 -
 
 What surprised you:
--
+- AI has been extremly helpful with coding. 
 
 Commit message:
 -
